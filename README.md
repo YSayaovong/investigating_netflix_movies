@@ -55,25 +55,6 @@ We found that there were **72 short action movies** released in the 1990s.
 
 This shows that despite the general trend of movies being around 90 minutes, there was still a notable number of short action movies released during that decade.
 
----
-
-## Step 4: Visualizing the Data
-
-As part of the analysis, we decided to create visualizations that help communicate our findings.
-
-### Visualization 1: Distribution of Movie Durations
-
-To visualize the distribution of movie durations from the 1990s, we used a **histogram** to see how the movie lengths were spread across different categories. This helped us further validate the mode we found in the previous step.
-
-![Histogram](histogram_example.png)
-
-### Visualization 2: Short Action Movies
-
-We also visualized the number of **short action movies** by using a **bar chart**. This chart showed the number of short action movies in comparison to other genres, which helped us understand the prevalence of short action films during the 1990s.
-
-![Bar Chart](bar_chart_example.png)
-
----
 
 ## Conclusion
 
