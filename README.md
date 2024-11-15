@@ -1,3 +1,5 @@
+![Popcorn](redpopcorn.jpg)
+
 # Netflix Data Analysis: 1990s Movie Trends
 
 Welcome to this **Exploratory Data Analysis (EDA)** project where we explore Netflix's movie data, focusing on the **1990s** decade. The goal of this project is to uncover key insights into movie durations and trends during that period. Specifically, we will:
