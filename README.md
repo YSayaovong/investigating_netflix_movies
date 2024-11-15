@@ -70,11 +70,13 @@ These findings are valuable for anyone interested in 1990s cinema, especially th
 
 ---
 
-## Visualization Example: Duration vs. Release Year Scatter Plot
+## Visualization Example: Duration vs. Release Year Scatter Plots
 
-Here is a scatter plot showcasing movie durations versus release years for the 1990s.
+Here are scatter plots showcasing movie durations versus release years for the 1990s.
 
 ![Duration](duration.PNG)
+
+![Duration2](duration2.PNG)
 
 ---
 
